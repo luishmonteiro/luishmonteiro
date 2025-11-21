@@ -1,12 +1,7 @@
 <h1 align=center> Olá! Eu sou o Luís Henrique.</h1>
 
-![ia (1)](https://github.com/luishmonteiro/luishmonteiro/assets/128317118/894808e7-a8d1-4c41-8882-8099b6f78b2b)
-
 ##
-
-🎓 Estou em busca de conhecimento e crescimento na área de desenvolvimento de software. Tenho um entendimento básico em HTML, CSS e JavaScript, além de habilidades em Java. Estou constantemente aprimorando minhas habilidades técnicas e buscando aprender novas tecnologias.
-
-🌟 Minhas áreas de interesse incluem desenvolvimento web, onde espero utilizar minhas habilidades para criar experiências digitais incríveis para os usuários. Estou ansioso para expandir meu conhecimento em tecnologias como React.js e aprofundar meu entendimento em IA e SQL.
+🎓 Estou em busca de conhecimento e crescimento na área de análise de dados e IA. Já tive contato com HTML, CSS, JavaScript, Java, Pythona e SQL. Estou constantemente aprimorando minhas habilidades técnicas e buscando aprender novas tecnologias.
 
 🌍 No momento, estou em busca de oportunidades de estágio ou projetos onde eu possa aplicar e expandir minhas habilidades enquanto contribuo para soluções inovadoras e impactantes.
 
